@@ -1,0 +1,8 @@
+.logo {
+  background-color: rgb(189, 189, 189);
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  border: solid 3px white;
+  margin-top: -35px;
+}

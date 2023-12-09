@@ -1,0 +1,17 @@
+.metrics {
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  color: rgb(83, 82, 82);
+}
+
+.metrics-main {
+  height: 8px;
+  font-weight: bold;
+}
+
+.metrics-detail {
+  margin-top: 1px;
+  color: rgb(121, 120, 120);
+  font-size: xx-small;
+}

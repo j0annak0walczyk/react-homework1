@@ -1,0 +1,23 @@
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.details-basics {
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  color: rgb(83, 82, 82);
+  gap: 10px;
+  font-weight: bold;
+}
+
+.age {
+  color: rgb(121, 120, 120);
+}
+.city {
+  margin-top: 1px;
+  color: rgb(121, 120, 120);
+  font-size: small;
+}
